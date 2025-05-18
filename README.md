@@ -1,2 +1,2 @@
 # sigma webdev course
- code with harry course
+ In this coourse i learn how to become a webdevloper (:
